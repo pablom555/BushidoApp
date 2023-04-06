@@ -1,0 +1,2 @@
+export const BACKEND_GQL_URI = process.env.NEXT_PUBLIC_BACKEND_GQL_URI
+export const BACKEND_API_URI = process.env.NEXT_PUBLIC_BACKEND_API_URI
